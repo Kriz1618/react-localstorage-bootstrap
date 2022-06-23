@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### `npm run deploy` after build to public the app
+
+### Open online 
+Click here to open Gihub Page: [https://kriz1618.github.io/react-localstorage-bootstrap/](https://kriz1618.github.io/react-localstorage-bootstrap/)
