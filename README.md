@@ -71,5 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### `npm run deploy` after build to public the app
 
-### Open online 
+### Open it online 
 Click here to open Gihub Page: [https://kriz1618.github.io/react-localstorage-bootstrap/](https://kriz1618.github.io/react-localstorage-bootstrap/)
